@@ -1,0 +1,17 @@
+{
+  "name": "block_chain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc-watch --onSuccess \" node dist/index.js\" "
+  },
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "global": "^4.4.0",
+    "typescript": "^4.4.2"
+  },
+  "devDependencies": {
+    "tsc-watch": "^4.5.0"
+  }
+}
