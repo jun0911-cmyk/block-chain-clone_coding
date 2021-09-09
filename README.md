@@ -6,7 +6,7 @@ So far, only the source code in the video has been created.
 
 I will continue to add code to one by one.
 
-compile start
+module install
 
     yarn install
 
